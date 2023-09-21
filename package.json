@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Hibbox.github.io/blog-vitrine/",
+  "homepage": "https://Hibbox.github.io/blog-vitrine",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
